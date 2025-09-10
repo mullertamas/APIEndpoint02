@@ -3,6 +3,6 @@
     "power_consumption": 1500
   },
   "motor_4_consumption": {
-    "power_consumption": 1500  
+    "power_consumption": 12345678  
   }
 }
